@@ -1,7 +1,7 @@
 # Papers-Continual-RL
-I am constantly collecting papers on Continual Reinforcement Learning on high-profile ML conferences or journals. Although the theoretical foundations of continual RL is not clear, it is still a valuable research field in addressing the challenges in the non-stationary environments for RL algorithms.
+I am constantly collecting papers on Continual Reinforcement Learning on high-profile ML conferences or journals. Although the theoretical foundations of continual RL is not clear, it is still a valuable research field in addressing the challenges in the non-stationary environments for RL algorithms. Please feel free to let us know if you feel we have missed some important papers.
 
-
+**Contact** : [Ke Sun](https://sites.google.com/view/kesun), ksun6@ualberta.ca
 
 ## 2023
 
