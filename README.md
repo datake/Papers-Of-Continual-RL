@@ -19,17 +19,30 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 > The authors are the first to provide a conceptual definition of continual RL, but unfortunately, no practical algorithms are proposed.
 
 
-## 2022
+* [Prediction and Control in Continual Reinforcement Learning](https://arxiv.org/abs/2312.11669) (NeurIPS 2023)
+> This paper studies the value-based continual RL in both prediction and control settings, and proposes to decompose the value function into two components that are updated in different time-scaling.
+
+* [COOM: A Game Benchmark for Continual Reinforcement Learning](https://openreview.net/pdf?id=qmCxdPkNsa) (NeurIPS 2023)
+> Benchmark on Images: Tensorflow
+
+* [Continual Task Allocation in Meta-Policy Network via Sparse Prompting](https://arxiv.org/abs/2305.18444) (ICML 2023)
+> The paper proposes sparse prompting to address continual RL problems, which learns over-complete dictionaries to produce sparse masks as prompts extracting a sub-network for each task from a meta-policy network.
 
 
+* [Task-Agnostic Continual Reinforcement Learning: Gaining Insights and Overcoming Challenges](https://arxiv.org/abs/2205.14495) (CoLLAs 2023)
+> The paper considers continual RL from the perspective of POMDP, and it also involves some insightful discussions.
 
 
-## 2021
+## 2022 and Before
+
+* [Disentangling Transfer in Continual Reinforcement Learning](https://arxiv.org/abs/2209.13900) (NeurIPS 2022)
+> This paper empirically investigates the impact of different components in SAC on continual RL, and proposes the behavior cloning method to combine improvements.
 
 * [Continual World: A Robotic Benchmark For Continual Reinforcement Learning](https://arxiv.org/abs/2105.10919) (NeurIPS 2021)
 > Benchmark: Continual World, 10 manipulation tasks from MetaWorld
 
-## 2020 and Before
+* [Towards Continual Reinforcement Learning: A Review and Perspectives](https://arxiv.org/abs/2105.10919) (Journal of Artificial Intelligence Research (JAIR)) 2020
+> The first review of continual RL, however, most of the related papers are about continual learning instead of RL.
 
 * [Continual Reinforcement Learning with Complex Synapses](https://arxiv.org/abs/1802.07239) (ICML 2018)
 > This paper incorporates a synaptic model in RL agents to mitigate catastrophic forgetting in continual RL. This study is inspired by neuroscience, but its experiments are restricted on tabular experiments.
