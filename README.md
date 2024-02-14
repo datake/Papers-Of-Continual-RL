@@ -33,7 +33,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 > The paper considers continual RL from the perspective of POMDP, and it also involves some insightful discussions.
 
 
-## 2022 and Before
+## 2022 and Before 
 
 * [Disentangling Transfer in Continual Reinforcement Learning](https://arxiv.org/abs/2209.13900) (NeurIPS 2022)
 > This paper empirically investigates the impact of different components in SAC on continual RL, and proposes the behavior cloning method to combine improvements.
@@ -44,6 +44,11 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 * [Towards Continual Reinforcement Learning: A Review and Perspectives](https://arxiv.org/abs/2105.10919) (Journal of Artificial Intelligence Research (JAIR)) 2020
 > The first review of continual RL, however, most of the related papers are about continual learning instead of RL.
 
+* [Policy Consolidation for Continual Reinforcement Learning](https://arxiv.org/abs/1902.00255) (ICML 2019）
+> The authors proposed to use policy consolidation method, in which the policy network interacts with a series of hidden networks in different time-scales to mitigate catastrophic forgetting.
+
 * [Continual Reinforcement Learning with Complex Synapses](https://arxiv.org/abs/1802.07239) (ICML 2018)
 > This paper incorporates a synaptic model in RL agents to mitigate catastrophic forgetting in continual RL. This study is inspired by neuroscience, but its experiments are restricted on tabular experiments.
+
+**Remark**. There are also a few papers before 2022 collected in https://github.com/ContinualAI/continual-learning-papers#continual-reinforcement-learning.
 
