@@ -43,6 +43,9 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 * [Disentangling Transfer in Continual Reinforcement Learning](https://arxiv.org/abs/2209.13900) (NeurIPS 2022)
 > This paper empirically investigates the impact of different components in SAC on continual RL, and proposes the behavior cloning method to combine improvements.
 
+* [Towards Evaluating Adaptivity of Model-Based Reinforcement Learning Methods](https://arxiv.org/pdf/2204.11464) (ICML 2022)
+> This paper investigates the adaptive power of model-based RL to local reward changes and reveals 4 failure modes. It finds that a large replay buffer from old data hurts the adaptivity/plasticity, while a small one tends to lead to catastraphic forgetting, suggesting a trade-off between them to achieve more ambitious continual RL problems.
+
 * [Continual World: A Robotic Benchmark For Continual Reinforcement Learning](https://arxiv.org/abs/2105.10919) (NeurIPS 2021)
 > Benchmark: Continual World, 10 manipulation tasks from MetaWorld
 
