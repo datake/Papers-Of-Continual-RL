@@ -6,7 +6,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 ## 2024
 
-* [self-composing policies for scalable continual RL](https://github.com/mikelma/componet) (ICML 2024)
+* [Self-composing policies for scalable continual RL](https://github.com/mikelma/componet) (ICML 2024)
 >
 
 
