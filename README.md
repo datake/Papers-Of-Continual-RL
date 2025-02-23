@@ -6,6 +6,11 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 ## 2024
 
+* [Parseval Regularization for Continual Reinforcement Learning](https://openreview.net/pdf?id=RB1F2h5YEx) (NeurIPS 2024)
+> This paper focuses on the loss of plasticity of continual RL from the perspective of optimization, one of the important aspects of continual RL. The authors propose to use Parseval regularization, which maintains orthogonality of weight matrice and thus enhances the optimization in the presence of new tasks.
+
+
+
 * [Self-composing policies for scalable continual RL](https://github.com/mikelma/componet) (ICML 2024)
 >
 
