@@ -3,8 +3,17 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 **Contact** : [Ke Sun](https://sites.google.com/view/kesun), ksun6@ualberta.ca
 
+## 2025
+
+* [Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline](https://openreview.net/forum?id=KAIqwkB3dT) (ICLR 2025)
+>
 
 ## 2024
+
+
+* [Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://openreview.net/pdf?id=QEaHE4TUgc) (NeurIPS 2024)
+>
+
 
 * [Parseval Regularization for Continual Reinforcement Learning](https://openreview.net/pdf?id=RB1F2h5YEx) (NeurIPS 2024)
 > This paper focuses on the loss of plasticity of continual RL from the perspective of optimization, one of the important aspects of continual RL. The authors propose to use Parseval regularization, which maintains orthogonality of weight matrice and thus enhances the optimization in the presence of new tasks.
@@ -21,6 +30,9 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 
 ## 2023
+
+* [Replay-enhanced Continual Reinforcement Learning](https://openreview.net/forum?id=91hfMEUukm) (TMLR 2023)
+>
 
 * [Building a Subspace of Policies for Scalable Continual Learning](https://arxiv.org/abs/2211.10445) (ICLR 2023)
 > This paper incrementally expands the subspace of policies to balance the agent's size and performance in continual RL. Although the result is very reasonable, it may suffer from the high computation, and increasing the agent's size may not be admissible in practice.
