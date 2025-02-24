@@ -57,6 +57,11 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 ## 2022 and Before 
 
+* [Lifelong Robotic Reinforcement Learning by Retaining Experiences](https://proceedings.mlr.press/v199/xie22a/xie22a.pdf) (CoLLAs 2022)
+> 
+
+
+
 * [Disentangling Transfer in Continual Reinforcement Learning](https://arxiv.org/abs/2209.13900) (NeurIPS 2022)
 > This paper empirically investigates the impact of different components in SAC on continual RL, and proposes the behavior cloning method to combine improvements.
 
