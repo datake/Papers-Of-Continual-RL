@@ -21,7 +21,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 
 * [Self-composing policies for scalable continual RL](https://github.com/mikelma/componet) (ICML 2024)
->
+> Like PackNet, this paper designs a growing NN that uses the attention module to integrate the output from previous policies and current policy. The growing NN is thus deployed for the new task and empirically achieve great performance in terms of bot plasticity (forward transfer and learning curve) and catastrophic forgetting (average performance) in Metaworld and Atari games.
 
 
 
