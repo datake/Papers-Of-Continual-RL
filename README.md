@@ -15,7 +15,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 
 * [Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://openreview.net/pdf?id=QEaHE4TUgc) (NeurIPS 2024)
->
+> The authors bring the idea from parameter-free online convex optimization to design a new advanced optimizer (based on SGD, Adam) to address the loss of plasiticity issue in continual RL.
 
 
 * [Parseval Regularization for Continual Reinforcement Learning](https://openreview.net/pdf?id=RB1F2h5YEx) (NeurIPS 2024)
@@ -86,6 +86,11 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 * [Continual Reinforcement Learning with Complex Synapses](https://arxiv.org/abs/1802.07239) (ICML 2018)
 > This paper incorporates a synaptic model in RL agents to mitigate catastrophic forgetting in continual RL. This study is inspired by neuroscience, but its experiments are restricted on tabular experiments.
+
+* [State Abstractions for Lifelong Reinforcement Learning](https://proceedings.mlr.press/v80/abel18a/abel18a.pdf) (ICML 2018)
+> This paper brings state abstraction to lifelong RL and provides a theoretical analysis.
+
+
 
 **Remark**. There are also a few papers before 2022 collected in https://github.com/ContinualAI/continual-learning-papers#continual-reinforcement-learning.
 
