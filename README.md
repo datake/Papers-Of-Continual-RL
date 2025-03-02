@@ -19,17 +19,17 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 
 * [Parseval Regularization for Continual Reinforcement Learning](https://openreview.net/pdf?id=RB1F2h5YEx) (NeurIPS 2024)
-> This paper focuses on the loss of plasticity of continual RL from the perspective of optimization, one of the important aspects of continual RL. The authors propose to use Parseval regularization, which maintains orthogonality of weight matrice and thus enhances the optimization in the presence of new tasks.
+> This paper focuses on the loss of plasticity of continual RL from the perspective of optimization, one of the important aspects of continual RL. The authors propose to use Parseval regularization, which maintains orthogonality of weight matrix and thus enhances the optimization in the presence of new tasks.
 
 
 
 * [Self-composing policies for scalable continual RL](https://github.com/mikelma/componet) (ICML 2024)
-> Like PackNet, this paper designs a growing NN that uses the attention module to integrate the output from previous policies and current policy. The growing NN is thus deployed for the new task and empirically achieve great performance in terms of bot plasticity (forward transfer and learning curve) and catastrophic forgetting (average performance) in Metaworld and Atari games.
+> Like PackNet, this paper designs a growing NN that uses the attention module to integrate the output from previous policies and the current policy. The growing NN is thus deployed for the new task and empirically achieves great performance in terms of bot plasticity (forward transfer and learning curve) and catastrophic forgetting (average performance) in Metaworld and Atari games.
 
 
 
 * [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/forum?id=86zAUE80pP) (ICLR 2024)
-> This paper is the first to consider the continual RLHF with dynamic preference learning, by using the sample-wise reweighting method based on the performance and variance.
+> This paper is the first to consider the continual RLHF with dynamic preference learning by using the sample-wise reweighting method based on performance and variance.
 
 * [Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7) (Nature 2024)
 > This paper empirically studies the loss of plasticity issue from supervised learning to reinforcement learning and proposes the continual propogation algorithm to mitigate the loss of plasticity issue partially.
@@ -55,7 +55,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 > Benchmark on Images: Tensorflow
 
 * [Continual Task Allocation in Meta-Policy Network via Sparse Prompting](https://arxiv.org/abs/2305.18444) (ICML 2023)
-> The paper proposes sparse prompting to address continual RL problems, which learns over-complete dictionaries to produce sparse masks as prompts extracting a sub-network for each task from a meta-policy network.
+> The paper proposes sparse prompting to address continual RL problems, which learns overcomplete dictionaries to produce sparse masks as prompts, extracting a sub-network for each task from a meta-policy network.
 
 
 * [Task-Agnostic Continual Reinforcement Learning: Gaining Insights and Overcoming Challenges](https://arxiv.org/abs/2205.14495) (CoLLAs 2023)
@@ -65,7 +65,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 ## 2022 and Before 
 
 * [Lifelong Robotic Reinforcement Learning by Retaining Experiences](https://proceedings.mlr.press/v199/xie22a/xie22a.pdf) (CoLLAs 2022)
-> 
+> As an early attempt, this paper focuses on the loss of plasticity only while assuming the previous data are stored and the previous reward functions are given. However, the interesting idea is that the importance weight is introduced, estimated by a learned classifier and in the progressively increasing replay buffer. Experiments are on a suite of simulated robotics environments.
 
 
 
@@ -82,7 +82,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 > The first review of continual RL, however, most of the related papers are about continual learning instead of RL.
 
 * [Policy Consolidation for Continual Reinforcement Learning](https://arxiv.org/abs/1902.00255) (ICML 2019）
-> The authors proposed to use policy consolidation method, in which the policy network interacts with a series of hidden networks in different time-scales to mitigate catastrophic forgetting.
+> The authors proposed to use the policy consolidation method, in which the policy network interacts with a series of hidden networks in different time-scales to mitigate catastrophic forgetting.
 
 * [Continual Reinforcement Learning with Complex Synapses](https://arxiv.org/abs/1802.07239) (ICML 2018)
 > This paper incorporates a synaptic model in RL agents to mitigate catastrophic forgetting in continual RL. This study is inspired by neuroscience, but its experiments are restricted on tabular experiments.
