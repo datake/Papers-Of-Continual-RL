@@ -15,7 +15,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 
 * [Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://openreview.net/pdf?id=QEaHE4TUgc) (NeurIPS 2024)
-> The authors bring the idea from parameter-free online convex optimization to design a new advanced optimizer (based on SGD, Adam) to address the loss of plasiticity issue in continual RL.
+> The authors bring the idea from parameter-free online convex optimization to design a new advanced optimizer (based on SGD, Adam) to address the loss of plasiticity issue in continual RL. Experiments include Procgen, Atari, and Gym Control environments, which are more flexible.
 
 
 * [Parseval Regularization for Continual Reinforcement Learning](https://openreview.net/pdf?id=RB1F2h5YEx) (NeurIPS 2024)
