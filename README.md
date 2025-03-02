@@ -11,6 +11,9 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 ## 2024
 
 
+
+
+
 * [Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://openreview.net/pdf?id=QEaHE4TUgc) (NeurIPS 2024)
 >
 
@@ -27,6 +30,10 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 * [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/forum?id=86zAUE80pP) (ICLR 2024)
 > This paper is the first to consider the continual RLHF with dynamic preference learning, by using the sample-wise reweighting method based on the performance and variance.
+
+* [Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7) (Nature 2024)
+> This paper empirically studies the loss of plasticity issue from supervised learning to reinforcement learning and proposes the continual propogation algorithm to mitigate the loss of plasticity issue partially.
+
 
 
 ## 2023
