@@ -32,7 +32,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 ## 2023
 
 * [Replay-enhanced Continual Reinforcement Learning](https://openreview.net/forum?id=91hfMEUukm) (TMLR 2023)
->
+> This paper incorporates normalized Q function and policy distillation (KL regularization) in SAC to address the reward scaling and catastrophic forgetting issues in continual RL. Experiments include several common baselines and are conducted in Continual World.
 
 * [Building a Subspace of Policies for Scalable Continual Learning](https://arxiv.org/abs/2211.10445) (ICLR 2023)
 > This paper incrementally expands the subspace of policies to balance the agent's size and performance in continual RL. Although the result is very reasonable, it may suffer from the high computation, and increasing the agent's size may not be admissible in practice.
