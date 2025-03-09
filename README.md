@@ -64,6 +64,12 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 ## 2022 and Before 
 
+
+
+* [CoMPS: Continual Meta Policy Search](https://arxiv.org/pdf/2112.04467) (ICLR 2022)
+> This paper studies continual RL from the perspective of meta-learning.
+
+
 * [Lifelong Robotic Reinforcement Learning by Retaining Experiences](https://proceedings.mlr.press/v199/xie22a/xie22a.pdf) (CoLLAs 2022)
 > As an early attempt, this paper focuses on the loss of plasticity only while assuming the previous data are stored and the previous reward functions are given. However, the interesting idea is that the importance weight is introduced, estimated by a learned classifier and in the progressively increasing replay buffer. Experiments are on a suite of simulated robotics environments.
 
