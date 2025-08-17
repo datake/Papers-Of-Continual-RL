@@ -3,6 +3,15 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 **Contact** : [Ke Sun](https://sites.google.com/view/kesun), ksun6@ualberta.ca
 
+## Continual Alignment / Preference Learning
+
+
+* [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/forum?id=86zAUE80pP) (ICLR 2024)
+> This paper is the first to consider the continual RLHF with dynamic preference learning by using the sample-wise reweighting method based on performance and variance.
+
+* [Continual Learning for Large Language Models: A Survey](https://arxiv.org/pdf/2402.01364) 
+
+
 ## 2025
 
 * [Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline](https://openreview.net/forum?id=KAIqwkB3dT) (ICLR 2025)
@@ -28,8 +37,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 
 
-* [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/forum?id=86zAUE80pP) (ICLR 2024)
-> This paper is the first to consider the continual RLHF with dynamic preference learning by using the sample-wise reweighting method based on performance and variance.
+
 
 * [Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7) (Nature 2024)
 > This paper empirically studies the loss of plasticity issue from supervised learning to reinforcement learning and proposes the continual propogation algorithm to mitigate the loss of plasticity issue partially.
