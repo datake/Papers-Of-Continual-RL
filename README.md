@@ -19,7 +19,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 * [Tackling Continual Offline RL through Selective Weights Activation on Aligned Spaces] (NeurIPS 2025)
 
-* [Knowledge Retention for Continual Model-Based Reinforcement Learning] (ICML 2025)
+* [Knowledge Retention for Continual Model-Based Reinforcement Learning](https://arxiv.org/abs/2503.04256) (ICML 2025)
 
 
 * [Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline](https://openreview.net/forum?id=KAIqwkB3dT) (ICLR 2025)
