@@ -14,6 +14,14 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 ## 2025
 
+
+* [Continual Knowledge Adaptation for Reinforcement Learning] (NeurIPS 2025)
+
+* [Tackling Continual Offline RL through Selective Weights Activation on Aligned Spaces] (NeurIPS 2025)
+
+* [Knowledge Retention for Continual Model-Based Reinforcement Learning] (ICML 2025)
+
+
 * [Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline](https://openreview.net/forum?id=KAIqwkB3dT) (ICLR 2025)
 > This paper highlights the prevalence of negative transfer within the loss of plasticity (even for fine-tune algorithms without considering the catastrophic forgetting) through extensive experiments on Metaworld, DMC control, and Atar games. To address this issue, the dual actor networks are used, with one periodically resetting the learn the current task, and the other distilling all knowledge from the large replay buffer via behavior cloning.
 
