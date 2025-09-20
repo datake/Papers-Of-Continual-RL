@@ -3,23 +3,23 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 **Contact** : [Ke Sun](https://sites.google.com/view/kesun), ksun6@ualberta.ca
 
-## Continual Alignment / Preference Learning
-
-
-* [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/forum?id=86zAUE80pP) (ICLR 2024)
-> This paper is the first to consider the continual RLHF with dynamic preference learning by using the sample-wise reweighting method based on performance and variance.
-
-* [Continual Learning for Large Language Models: A Survey](https://arxiv.org/pdf/2402.01364) 
 
 
 ## 2025
 
 
-* [Continual Knowledge Adaptation for Reinforcement Learning] (NeurIPS 2025)
+* [Continual Knowledge Adaptation for Reinforcement Learning](https://neurips.cc/virtual/2025/poster/118130) (NeurIPS 2025)
 
-* [Tackling Continual Offline RL through Selective Weights Activation on Aligned Spaces] (NeurIPS 2025)
+
+* [Tackling Continual Offline RL through Selective Weights Activation on Aligned Spaces](https://arxiv.org/abs/2410.15698) (NeurIPS 2025)
 
 * [Knowledge Retention for Continual Model-Based Reinforcement Learning](https://arxiv.org/abs/2503.04256) (ICML 2025)
+
+* [Continual Reinforcement Learning by Planning with Online World Models](https://openreview.net/forum?id=mQeZEsdODh) (ICML 2025)
+
+* [Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn](https://openreview.net/forum?id=EkoFXfSauv) (ICML 2025)
+
+* [Position: Lifetime tuning is incompatible with continual reinforcement learning](https://openreview.net/pdf?id=JMoWFkwnvv) (ICML 2025)
 
 
 * [Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline](https://openreview.net/forum?id=KAIqwkB3dT) (ICLR 2025)
