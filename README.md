@@ -18,7 +18,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 * [Continual Reinforcement Learning by Planning with Online World Models](https://openreview.net/forum?id=mQeZEsdODh) (ICML 2025)
 
-This paper learns an online world model and act by planning via model prediction control to construct a unified world dynamics to handle the catastrophic forgetting issue. An online agent is also developed to evaluate on a proposed continual bench environment.
+> This paper learns an online world model and act by planning via model prediction control to construct a unified world dynamics to handle the catastrophic forgetting issue. An online agent is also developed to evaluate on a proposed continual bench environment.
 
 * [Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn](https://openreview.net/forum?id=EkoFXfSauv) (ICML 2025)
 
@@ -27,7 +27,7 @@ This paper learns an online world model and act by planning via model prediction
 
 * [Position: Lifetime tuning is incompatible with continual reinforcement learning](https://openreview.net/pdf?id=JMoWFkwnvv) (ICML 2025)
 
-This position paper emphasizes the importance of evaluation of the algorithm's performance in the context of continual RL. They propose k-percent turning to promote a fairer evaluation, called lifetime tuning.
+> This position paper emphasizes the importance of evaluation of the algorithm's performance in the context of continual RL. They propose k-percent turning to promote a fairer evaluation, called lifetime tuning.
 
 * [Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline](https://openreview.net/forum?id=KAIqwkB3dT) (ICLR 2025)
 > This paper highlights the prevalence of negative transfer within the loss of plasticity (even for fine-tune algorithms without considering the catastrophic forgetting) through extensive experiments on Metaworld, DMC control, and Atar games. To address this issue, the dual actor networks are used, with one periodically resetting the learn the current task, and the other distilling all knowledge from the large replay buffer via behavior cloning.
