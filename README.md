@@ -20,6 +20,9 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 * [Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn](https://openreview.net/forum?id=EkoFXfSauv) (ICML 2025)
 
+This paper follows Fast TRAC (NeurIPS 2025), focusing on plasticity loss with mostly same experimental settup: gym control, procgen, and MinAtar. The novelty of this paper is that it establishes the connection between plasticity and the churn via NTK matrix. 
+
+
 * [Position: Lifetime tuning is incompatible with continual reinforcement learning](https://openreview.net/pdf?id=JMoWFkwnvv) (ICML 2025)
 
 
