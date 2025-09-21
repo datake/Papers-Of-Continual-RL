@@ -18,6 +18,8 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 * [Continual Reinforcement Learning by Planning with Online World Models](https://openreview.net/forum?id=mQeZEsdODh) (ICML 2025)
 
+This paper learns an online world model and act by planning via model prediction control to construct a unified world dynamics to handle the catastrophic forgetting issue. An online agent is also developed to evaluate on a proposed continual bench environment.
+
 * [Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn](https://openreview.net/forum?id=EkoFXfSauv) (ICML 2025)
 
 > This paper follows Fast TRAC (NeurIPS 2024), focusing on plasticity loss with mostly same experimental settup: gym control, procgen, and MinAtar. The novelty of this paper is that it establishes the connection between plasticity and the churn via NTK matrix. 
