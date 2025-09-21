@@ -13,6 +13,8 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 * [Tackling Continual Offline RL through Selective Weights Activation on Aligned Spaces](https://arxiv.org/abs/2410.15698) (NeurIPS 2025)
 
+> This paper leverages vector quantization to align the different state and action spaces of various tasks by selective weight activations. The experiments are on CW10, Mujoco, and D4RL.
+
 * [Knowledge Retention for Continual Model-Based Reinforcement Learning](https://arxiv.org/abs/2503.04256) (ICML 2025)
 > This paper uses VAE to continually learn a generative model by freezing the previous one to replay past experience. At the same time, to facilitate plasticity, a new learner is encouraged to explore the new state and action pairs beyond the state-action scope of the generative/world model, i.e., the past knowledge, leading to exploration of new knowledge in the new environment.
 
