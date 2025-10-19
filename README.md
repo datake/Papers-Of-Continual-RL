@@ -86,6 +86,9 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 * [Task-Agnostic Continual Reinforcement Learning: Gaining Insights and Overcoming Challenges](https://arxiv.org/abs/2205.14495) (CoLLAs 2023)
 > The paper considers continual RL from the perspective of POMDP, and it also involves some insightful discussions.
 
+* [Loss of Plasticity in Continual Deep Reinforcement Learning](https://proceedings.mlr.press/v232/abbas23a/abbas23a.pdf) (CoLLAs 2023)
+> This paper studies the continual learning of value-based RL in Atari games, (1) standard setting: 10 games * 20M * repeat 5times (2) milder setting: mode change within one game. Then they find the loss of plasticity and the catastrophic interference often occur with the weight diminishing. Therefore, they propose to use concatenated ReLu (ReLu(x), ReLu(-x)) to help propagate the gradient to reduce the loss of plasticity.
+
 
 ## 2022 and Before 
 
