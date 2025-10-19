@@ -56,7 +56,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 
 
-* :fire:[Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7) (Nature 2024)
+* [Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7) (Nature 2024) :fire:
 > This paper empirically studies the loss of plasticity issue from supervised learning to reinforcement learning and proposes the continual propogation algorithm to mitigate the loss of plasticity issue partially.
 
 
@@ -86,7 +86,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 * [Task-Agnostic Continual Reinforcement Learning: Gaining Insights and Overcoming Challenges](https://arxiv.org/abs/2205.14495) (CoLLAs 2023)
 > The paper considers continual RL from the perspective of POMDP, and it also involves some insightful discussions.
 
-* :fire:[Loss of Plasticity in Continual Deep Reinforcement Learning](https://proceedings.mlr.press/v232/abbas23a/abbas23a.pdf) (CoLLAs 2023)
+* [Loss of Plasticity in Continual Deep Reinforcement Learning](https://proceedings.mlr.press/v232/abbas23a/abbas23a.pdf) (CoLLAs 2023) :fire:
 > This paper studies the continual learning of value-based RL in Atari games, (1) standard setting: 10 games * 20M * repeat 5times (2) milder setting: mode change within one game. Then they find the loss of plasticity and the catastrophic interference often occur with the weight diminishing. Therefore, they propose to use concatenated ReLu (ReLu(x), ReLu(-x)) to help propagate the gradient to reduce the loss of plasticity.
 
 
@@ -109,7 +109,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 * [Towards Evaluating Adaptivity of Model-Based Reinforcement Learning Methods](https://arxiv.org/pdf/2204.11464) (ICML 2022)
 > This paper investigates the adaptive power of model-based RL to local reward changes and reveals 4 failure modes. It finds that a large replay buffer from old data hurts the adaptivity/plasticity, while a small one tends to lead to catastraphic forgetting, suggesting a trade-off between them to achieve more ambitious continual RL problems.
 
-* :fire:[Continual World: A Robotic Benchmark For Continual Reinforcement Learning](https://arxiv.org/abs/2105.10919) (NeurIPS 2021)
+* [Continual World: A Robotic Benchmark For Continual Reinforcement Learning](https://arxiv.org/abs/2105.10919) (NeurIPS 2021) :fire:
 > Benchmark: Continual World, 10 manipulation tasks from MetaWorld
 
 * [Towards Continual Reinforcement Learning: A Review and Perspectives](https://arxiv.org/abs/2105.10919) (Journal of Artificial Intelligence Research (JAIR)) 2020
