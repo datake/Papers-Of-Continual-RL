@@ -7,6 +7,9 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 ## 2025
 
+* [Rethinking the Foundations for Continual Reinforcement Learning](https://arxiv.org/abs/2504.08161) (RLC 2025) :fire:
+> This paper tries to redefine RL from the perspective of continual learning. It investigates the four foundations of RL and provides their alternatives to define RL in the general continual learning or non-Markovian environment.
+
 
 * [Continual Knowledge Adaptation for Reinforcement Learning](https://neurips.cc/virtual/2025/poster/118130) (NeurIPS 2025)
 
@@ -73,7 +76,7 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 > The authors are the first to provide a conceptual definition of continual RL, but unfortunately, no practical algorithms are proposed.
 
 
-* [Prediction and Control in Continual Reinforcement Learning](https://arxiv.org/abs/2312.11669) (NeurIPS 2023)
+* [Prediction and Control in Continual Reinforcement Learning](https://arxiv.org/abs/2312.11669) (NeurIPS 2023) :fire:
 > This paper studies the value-based continual RL in both prediction and control settings, and proposes to decompose the value function into two components that are updated in different time-scaling, which mirror the function of neocortex and hippocampus
 
 * [COOM: A Game Benchmark for Continual Reinforcement Learning](https://openreview.net/pdf?id=qmCxdPkNsa) (NeurIPS 2023)
