@@ -3,7 +3,10 @@ I am constantly collecting papers on Continual Reinforcement Learning published 
 
 **Contact** : [Ke Sun](https://sites.google.com/view/kesun), ksun6@ualberta.ca
 
+## 2026
 
+* [Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning](https://openreview.net/forum?id=loNTDX3wTn&referrer=%5BAuthor+Console%5D%28%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions%29) (ICLR 2026) :fire:
+> Inspired by the interplay between the hippocampus and cerebral cortex in human learning and memory system, this study proposes a dual-learner framework comprising a fast learner and a meta learner, which are coupled to perform distinct yet complementary roles. The fast learner focuses on knowledge transfer, while the meta learner ensures knowledge integration.
 
 ## 2025
 
